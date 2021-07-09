@@ -122,7 +122,7 @@ h1,h2, h3, h4, h5, h6{
     margin: 0 auto; 
     /* margin: 94px auto 73px auto; */
 }
-.for-background-color{
+.for-background-color-only{
     margin-top: 15px;
     background-color: #f8f8f8;
 }
