@@ -117,7 +117,12 @@ h1,h2, h3, h4, h5, h6{
 
 /* Service Section start here*/
 
+
+.for-background-color{
+    background-color: #F8F8F8;
+}
 .main-wrapper-service-section {
+    background-color: #F8F8F8;
     max-width: 1170px;
     margin: 15px auto 0px auto; 
     /* margin: 94px auto 73px auto; */
@@ -137,7 +142,7 @@ h1,h2, h3, h4, h5, h6{
     font-size: 15px;
     line-height: 25px;
     color: #3D37F1;
-    margin-top: 15px;
+    padding-top: 55px;
     margin-bottom: 18px;
     text-transform: uppercase;
 }
