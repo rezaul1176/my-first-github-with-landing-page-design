@@ -117,12 +117,13 @@ h1,h2, h3, h4, h5, h6{
 
 /* Service Section start here*/
 
-main-wrapper-service-section {
+.main-wrapper-service-section {
     max-width: 1170px;
     margin: 0 auto; 
     /* margin: 94px auto 73px auto; */
 }
 .for-background-color{
+    margin-top: 15px;
     background-color: #f8f8f8;
 }
 .content-wrapper-main1{
